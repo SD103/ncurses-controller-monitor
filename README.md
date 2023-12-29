@@ -4,7 +4,7 @@ A controller input monitor meant to be displayed in a Terminal User Interface. C
 # How to download & compile
 
 1. Open a terminal
-2. git clone https://github.com/sd103/ncurses-controller-monitor.git
+2. git clone https://github.com/TMZ-429/ncurses-controller-monitor.git
 3. cd ncurses-controller-monitor
 4. make
 
